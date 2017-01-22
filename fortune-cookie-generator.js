@@ -7,7 +7,7 @@
 var generateFortuneCookie = function() {
     // This is where your code for the Fortune Cookie generator goes.
     // You will use the fortunesList variable defined lower in this file
-    // to supply your fortune cookies with text.
+    // to supply your fortune cookies with text..
 
 }
 
